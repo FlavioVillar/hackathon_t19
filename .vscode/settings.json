@@ -1,5 +1,8 @@
 {
   "conventionalCommits.scopes": [
     "estilização carousel vinhos"
+  ],
+  "cSpell.words": [
+    "hoverpause"
   ]
 }
