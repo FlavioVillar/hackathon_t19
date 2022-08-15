@@ -12,11 +12,15 @@ Projeto desenvolvido por estudante durante o curso de desenvolvimento front-end 
  <kbd>
   <img src="https://user-images.githubusercontent.com/94480963/184561491-1e94cc27-72a8-4d69-8b9b-90858dd57847.png" width="250">
  </kbd>  
-  <kbd>
+ 
+ <br />
+ <hr>
+ <kbd>
   <img src="https://user-images.githubusercontent.com/94480963/184563007-e226e050-2d45-4a1a-ab3a-4631463a5484.gif" width="600">
  </kbd>  
 </div>
 <br />
+<hr>
 
 
 ## :memo: Descrição do desafio.
