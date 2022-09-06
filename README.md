@@ -1,9 +1,7 @@
 <h1 align="center">Landing Page Wine</h1>
 
-# Projeto App de receitas!
+# Projeto de landing page, desenvolvido para o Hackathon Trybe e wine.com.br.
 
-
-Projeto desenvolvido por estudante durante o curso de desenvolvimento front-end da **Trybe**
 
 <br />
 
