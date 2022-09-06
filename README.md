@@ -59,12 +59,16 @@ Refizemos a Landing page com um layout mais “clean”, mas o principal foi tra
 - Gabriel Sartori
 
 
-Antes de começar:
+## Antes de começar:
+
 Faça o clone do repositório com o comando:  `git clone git@github.com:tryber/hackathon-t19-wine.git`
+
 Mude para a branch grupo-20-main com o comando: `git switch grupo-20-main`
+
 Instale as dependencias necessárias com o comando: `npm install`
 
 Após isso, execute o comando: `npm start`
+
 Abra [http://localhost:3000](http://localhost:3000) no seu Browser para ver a página.
 
 Use o comando: `npm test` para rodar os testes.
